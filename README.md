@@ -8,7 +8,7 @@
 
 In the project directory, you can run:
 
-### 'npm i'
+### `npm i`
 
 By using this install all the required node modules
 
